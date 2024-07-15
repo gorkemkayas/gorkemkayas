@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on **https://medium.com/@gorkemkayas**
 
-- 🌱 I’m currently learning **Asp.net and PostgreSQL**
+- 🌱 I’m currently learning **Asp.net Core**
 
 - 📫 How to reach me **gorkemkayas435@gmail.com**
 
