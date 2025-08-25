@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **.net technologies**
 
-- 📝 I regularly write articles on **https://medium.com/@gorkemkayas**
+- 📝 I regularly write articles on **https://medium.com/@gorkemkayas** and **https://kayas.dev/**
 
 - 🌱 I’m currently learning **Asp.net Core**
 
