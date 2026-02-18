@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Görkem Kaya</h1>
 <h3 align="center">Computer Engineering Student | Backend-focused .NET Developer</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gorkemkayas&theme=onedark&margin-w=10&margin-h=10" />
-  </a>
-</p>
 
 ---
 
