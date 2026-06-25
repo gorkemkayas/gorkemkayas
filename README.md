@@ -9,7 +9,7 @@
 - 🎓 **Computer Engineering (4/4)** student  
 - 💻 Focused on **Backend Development with .NET**
 - 🧱 Interested in **Clean Architecture, Security, robust systems**
-- ✍️ Writing technical articles on **kayas.dev** and **https://medium.com/@gorkemkayas**
+- ✍️ Writing technical articles on **https://kayas.dev** and **https://medium.com/@gorkemkayas**
 - 📈 Always learning, always building real projects
 
 ---
