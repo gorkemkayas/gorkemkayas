@@ -1,82 +1,45 @@
-<h1 align="center">Hi 👋, I'm Görkem Kaya</h1>
-<h3 align="center">Computer Engineering Student | Backend-focused .NET Developer</h3>
+<div align="center">
 
+# Görkem Kaya
 
----
+**Computer Engineering Graduate · Backend Developer**
 
-### 🚀 About Me
+[![Blog](https://img.shields.io/badge/Blog-kayas.dev-0f172a?style=flat-square&logo=hashnode&logoColor=white)](https://kayas.dev)
+[![Medium](https://img.shields.io/badge/Medium-@gorkemkayas-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gorkemkayas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gorkemkayas-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gorkemkayas)
+[![Twitter](https://img.shields.io/badge/X-@gorkemkayaz-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/gorkemkayaz)
+[![Mail](https://img.shields.io/badge/Email-gorkemkayas435@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gorkemkayas435@gmail.com)
 
-- 🎓 **Computer Engineering (4/4)** student  
-- 💻 Focused on **Backend Development with .NET**
-- 🧱 Interested in **Clean Architecture, Security, robust systems**
-- ✍️ Writing technical articles on **https://kayas.dev** and **https://medium.com/@gorkemkayas**
-- 📈 Always learning, always building real projects
-
----
-
-### 🔭 Current Focus
-
-- **ASP.NET Core & .NET ecosystem**
-- Authentication & Authorization (JWT, Refresh Token, Identity)
-- Entity Framework Core (performance, query strategies)
-- Backend architecture & best practices
+</div>
 
 ---
 
-### ✍️ Writing & Content
+## Hi there 👋
 
-- 📝 Medium: **https://medium.com/@gorkemkayas**
-- 🌐 Personal Blog: **https://kayas.dev**
+I'm a recently graduated Computer Engineer who enjoys building backend systems with .NET. I care about writing code that's easy to understand, maintain, and extend — not just code that works.
 
----
-
-### 📫 Contact Me
-
-- 📧 Mail: **gorkemkayas435@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/gorkemkayas**
-- 🐦 Twitter/X: **https://twitter.com/gorkemkayaz**
+I also write about what I learn at [kayas.dev](https://kayas.dev) and [Medium](https://medium.com/@gorkemkayas).
 
 ---
 
-### 🤝 Connect with Me
+## What I use
 
-<p align="left">
-  <a href="https://twitter.com/gorkemkayaz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/gorkemkayas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://medium.com/@gorkemkayas" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/>
-  </a>
-</p>
+`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `PostgreSQL` · `MSSQL` · `Docker` · `Git`
 
 ---
 
-### 🛠️ Languages & Tools
+## Currently exploring
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-</p>
+- Messaging systems and event-driven patterns
+- Building more real-world, end-to-end projects
+- Writing more, sharing more
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gorkemkayas&show_icons=true&theme=tokyonight" />
-</p>
+![Görkem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorkemkayas&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorkemkayas&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gorkemkayas&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemkayas&theme=tokyonight" />
-</p>
+</div>
